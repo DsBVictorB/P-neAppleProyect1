@@ -1,2 +1,2 @@
-# PineAppleProyect1
+# Proyecto EditorContentido
 Proyectos de PineApple 
